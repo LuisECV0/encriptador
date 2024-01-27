@@ -1,0 +1,40 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  color: #555;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+select, button {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#resultado {
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #fff;
+}
